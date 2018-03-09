@@ -14,13 +14,13 @@ import java.io.Serializable;
 import java.text.NumberFormat;
 import java.util.List;
 
-import flamingsoft.com.sensors.Graph.chart.model.Point;
-import flamingsoft.com.sensors.Graph.chart.model.SeriesSelection;
-import flamingsoft.com.sensors.Graph.chart.renderer.DefaultRenderer;
-import flamingsoft.com.sensors.Graph.chart.renderer.SimpleSeriesRenderer;
-import flamingsoft.com.sensors.Graph.chart.renderer.XYMultipleSeriesRenderer;
-import flamingsoft.com.sensors.Graph.chart.renderer.XYMultipleSeriesRenderer.Orientation;
-import flamingsoft.com.sensors.Graph.chart.util.MathHelper;
+import flamingsoft.com.sensorsgraph.chart.model.Point;
+import flamingsoft.com.sensorsgraph.chart.model.SeriesSelection;
+import flamingsoft.com.sensorsgraph.chart.renderer.DefaultRenderer;
+import flamingsoft.com.sensorsgraph.chart.renderer.SimpleSeriesRenderer;
+import flamingsoft.com.sensorsgraph.chart.renderer.XYMultipleSeriesRenderer;
+import flamingsoft.com.sensorsgraph.chart.renderer.XYMultipleSeriesRenderer.Orientation;
+import flamingsoft.com.sensorsgraph.chart.util.MathHelper;
 
 /**
  * An abstract class to be implemented by the chart rendering classes.

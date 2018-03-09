@@ -4,7 +4,7 @@ package flamingsoft.com.sensorsgraph.chart.model;
 import java.util.ArrayList;
 import java.util.List;
 
-import flamingsoft.com.sensors.Graph.chart.util.MathHelper;
+import flamingsoft.com.sensorsgraph.chart.util.MathHelper;
 
 /**
  * An extension of the XY series which adds a third dimension. It is used for XY

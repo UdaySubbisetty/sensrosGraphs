@@ -6,11 +6,11 @@ import android.graphics.Paint;
 import android.graphics.Paint.Align;
 import android.graphics.Paint.Style;
 
-import flamingsoft.com.sensors.Graph.chart.model.CategorySeries;
-import flamingsoft.com.sensors.Graph.chart.renderer.DefaultRenderer;
-import flamingsoft.com.sensors.Graph.chart.renderer.DialRenderer;
-import flamingsoft.com.sensors.Graph.chart.renderer.DialRenderer.Type;
-import flamingsoft.com.sensors.Graph.chart.util.MathHelper;
+import flamingsoft.com.sensorsgraph.chart.model.CategorySeries;
+import flamingsoft.com.sensorsgraph.chart.renderer.DefaultRenderer;
+import flamingsoft.com.sensorsgraph.chart.renderer.DialRenderer;
+import flamingsoft.com.sensorsgraph.chart.renderer.DialRenderer.Type;
+import flamingsoft.com.sensorsgraph.chart.util.MathHelper;
 
 /**
  * The dial chart rendering class.

@@ -4,10 +4,10 @@ package flamingsoft.com.sensorsgraph.chart;
 import android.graphics.RectF;
 import android.view.MotionEvent;
 
-import flamingsoft.com.sensors.Graph.chart.renderer.DefaultRenderer;
-import flamingsoft.com.sensors.Graph.chart.tools.Pan;
-import flamingsoft.com.sensors.Graph.chart.tools.PanListener;
-import flamingsoft.com.sensors.Graph.chart.tools.ZoomListener;
+import flamingsoft.com.sensorsgraph.chart.renderer.DefaultRenderer;
+import flamingsoft.com.sensorsgraph.chart.tools.Pan;
+import flamingsoft.com.sensorsgraph.chart.tools.PanListener;
+import flamingsoft.com.sensorsgraph.chart.tools.ZoomListener;
 
 /**
  * A handler implementation for touch events for older platforms.

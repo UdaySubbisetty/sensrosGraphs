@@ -22,17 +22,17 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.SortedMap;
 
-import flamingsoft.com.sensors.Graph.chart.model.Point;
-import flamingsoft.com.sensors.Graph.chart.model.SeriesSelection;
-import flamingsoft.com.sensors.Graph.chart.model.XYMultipleSeriesDataset;
-import flamingsoft.com.sensors.Graph.chart.model.XYSeries;
-import flamingsoft.com.sensors.Graph.chart.renderer.BasicStroke;
-import flamingsoft.com.sensors.Graph.chart.renderer.DefaultRenderer;
-import flamingsoft.com.sensors.Graph.chart.renderer.SimpleSeriesRenderer;
-import flamingsoft.com.sensors.Graph.chart.renderer.XYMultipleSeriesRenderer;
-import flamingsoft.com.sensors.Graph.chart.renderer.XYMultipleSeriesRenderer.Orientation;
-import flamingsoft.com.sensors.Graph.chart.renderer.XYSeriesRenderer;
-import flamingsoft.com.sensors.Graph.chart.util.MathHelper;
+import flamingsoft.com.sensorsgraph.chart.model.Point;
+import flamingsoft.com.sensorsgraph.chart.model.SeriesSelection;
+import flamingsoft.com.sensorsgraph.chart.model.XYMultipleSeriesDataset;
+import flamingsoft.com.sensorsgraph.chart.model.XYSeries;
+import flamingsoft.com.sensorsgraph.chart.renderer.BasicStroke;
+import flamingsoft.com.sensorsgraph.chart.renderer.DefaultRenderer;
+import flamingsoft.com.sensorsgraph.chart.renderer.SimpleSeriesRenderer;
+import flamingsoft.com.sensorsgraph.chart.renderer.XYMultipleSeriesRenderer;
+import flamingsoft.com.sensorsgraph.chart.renderer.XYMultipleSeriesRenderer.Orientation;
+import flamingsoft.com.sensorsgraph.chart.renderer.XYSeriesRenderer;
+import flamingsoft.com.sensorsgraph.chart.util.MathHelper;
 
 /**
  * The XY chart rendering class.

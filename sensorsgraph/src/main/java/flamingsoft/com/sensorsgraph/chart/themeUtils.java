@@ -10,7 +10,7 @@ import android.support.v7.app.ActionBar;
 import android.view.Window;
 import android.view.WindowManager;
 
-import flamingsoft.com.sensors.R;
+import flamingsoft.com.sensorsgraph.R;
 
 
 public class themeUtils extends Activity

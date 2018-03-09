@@ -5,9 +5,9 @@ import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.graphics.Paint.Align;
 
-import flamingsoft.com.sensors.Graph.chart.model.CategorySeries;
-import flamingsoft.com.sensors.Graph.chart.renderer.DefaultRenderer;
-import flamingsoft.com.sensors.Graph.chart.renderer.SimpleSeriesRenderer;
+import flamingsoft.com.sensorsgraph.chart.model.CategorySeries;
+import flamingsoft.com.sensorsgraph.chart.renderer.DefaultRenderer;
+import flamingsoft.com.sensorsgraph.chart.renderer.SimpleSeriesRenderer;
 
 /**
  * An abstract class to be extended by round like chart rendering classes.

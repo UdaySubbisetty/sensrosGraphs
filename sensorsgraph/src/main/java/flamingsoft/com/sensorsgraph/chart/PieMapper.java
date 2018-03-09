@@ -5,8 +5,8 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
-import flamingsoft.com.sensors.Graph.chart.model.Point;
-import flamingsoft.com.sensors.Graph.chart.model.SeriesSelection;
+import flamingsoft.com.sensorsgraph.chart.model.Point;
+import flamingsoft.com.sensorsgraph.chart.model.SeriesSelection;
 
 /**
  * PieChart Segment Selection Management.

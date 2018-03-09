@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-import flamingsoft.com.sensors.Graph.chart.util.MathHelper;
+import flamingsoft.com.sensorsgraph.chart.util.MathHelper;
 
 /**
  * Multiple XY series renderer.
@@ -762,7 +762,7 @@ public class XYMultipleSeriesRenderer extends DefaultRenderer {
   }
 
   /**
-   * Override {@link flamingsoft.com.sensors.Graph.chart.renderer.DefaultRenderer#setPanEnabled(boolean)} so it can be
+   * Override {@link flamingsoft.com.sensorsgraph.chart.renderer.DefaultRenderer#setPanEnabled(boolean)} so it can be
    * delegated to {@link #setPanEnabled(boolean, boolean)}.
    */
   @Override

@@ -4,9 +4,9 @@ package flamingsoft.com.sensorsgraph.chart.tools;
 import java.util.ArrayList;
 import java.util.List;
 
-import flamingsoft.com.sensors.Graph.chart.AbstractChart;
-import flamingsoft.com.sensors.Graph.chart.RoundChart;
-import flamingsoft.com.sensors.Graph.chart.XYChart;
+import flamingsoft.com.sensorsgraph.chart.AbstractChart;
+import flamingsoft.com.sensorsgraph.chart.RoundChart;
+import flamingsoft.com.sensorsgraph.chart.XYChart;
 
 /**
  * The pan tool.

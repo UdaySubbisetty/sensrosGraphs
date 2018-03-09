@@ -8,7 +8,7 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
-import flamingsoft.com.sensors.Graph.chart.PointStyle;
+import flamingsoft.com.sensorsgraph.chart.PointStyle;
 
 /**
  * A renderer for the XY type series.
@@ -131,7 +131,7 @@ public class XYSeriesRenderer extends SimpleSeriesRenderer {
    * 
    * @param fill the fill below line flag value
    * 
-   * @deprecated Use {@link #addFillOutsideLine(flamingsoft.com.sensors.Graph.chart.renderer.XYSeriesRenderer.FillOutsideLine)} instead.
+   * @deprecated Use {@link #addFillOutsideLine(flamingsoft.com.sensorsgraph.chart.renderer.XYSeriesRenderer.FillOutsideLine)} instead.
    */
   @Deprecated
   public void setFillBelowLine(boolean fill) {

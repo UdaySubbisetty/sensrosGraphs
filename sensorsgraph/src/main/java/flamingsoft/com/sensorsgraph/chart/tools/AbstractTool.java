@@ -1,9 +1,9 @@
 
 package flamingsoft.com.sensorsgraph.chart.tools;
 
-import flamingsoft.com.sensors.Graph.chart.AbstractChart;
-import flamingsoft.com.sensors.Graph.chart.XYChart;
-import flamingsoft.com.sensors.Graph.chart.renderer.XYMultipleSeriesRenderer;
+import flamingsoft.com.sensorsgraph.chart.AbstractChart;
+import flamingsoft.com.sensorsgraph.chart.XYChart;
+import flamingsoft.com.sensorsgraph.chart.renderer.XYMultipleSeriesRenderer;
 
 /**
  * Abstract class for being extended by graphical view tools.

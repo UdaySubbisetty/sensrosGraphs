@@ -3,8 +3,8 @@ package flamingsoft.com.sensorsgraph.chart;
 
 import android.view.MotionEvent;
 
-import flamingsoft.com.sensors.Graph.chart.tools.PanListener;
-import flamingsoft.com.sensors.Graph.chart.tools.ZoomListener;
+import flamingsoft.com.sensorsgraph.chart.tools.PanListener;
+import flamingsoft.com.sensorsgraph.chart.tools.ZoomListener;
 
 /**
  * The interface to be implemented by the touch handlers.

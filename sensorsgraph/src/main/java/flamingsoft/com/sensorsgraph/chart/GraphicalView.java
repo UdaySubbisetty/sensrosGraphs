@@ -13,14 +13,14 @@ import android.os.Handler;
 import android.view.MotionEvent;
 import android.view.View;
 
-import flamingsoft.com.sensors.Graph.chart.model.Point;
-import flamingsoft.com.sensors.Graph.chart.model.SeriesSelection;
-import flamingsoft.com.sensors.Graph.chart.renderer.DefaultRenderer;
-import flamingsoft.com.sensors.Graph.chart.renderer.XYMultipleSeriesRenderer;
-import flamingsoft.com.sensors.Graph.chart.tools.FitZoom;
-import flamingsoft.com.sensors.Graph.chart.tools.PanListener;
-import flamingsoft.com.sensors.Graph.chart.tools.Zoom;
-import flamingsoft.com.sensors.Graph.chart.tools.ZoomListener;
+import flamingsoft.com.sensorsgraph.chart.model.Point;
+import flamingsoft.com.sensorsgraph.chart.model.SeriesSelection;
+import flamingsoft.com.sensorsgraph.chart.renderer.DefaultRenderer;
+import flamingsoft.com.sensorsgraph.chart.renderer.XYMultipleSeriesRenderer;
+import flamingsoft.com.sensorsgraph.chart.tools.FitZoom;
+import flamingsoft.com.sensorsgraph.chart.tools.PanListener;
+import flamingsoft.com.sensorsgraph.chart.tools.Zoom;
+import flamingsoft.com.sensorsgraph.chart.tools.ZoomListener;
 
 /**
  * The view that encapsulates the graphical chart.

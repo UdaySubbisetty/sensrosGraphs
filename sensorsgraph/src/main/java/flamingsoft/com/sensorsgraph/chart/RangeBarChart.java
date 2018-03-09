@@ -7,10 +7,10 @@ import android.graphics.Paint.Style;
 
 import java.util.List;
 
-import flamingsoft.com.sensors.Graph.chart.model.XYMultipleSeriesDataset;
-import flamingsoft.com.sensors.Graph.chart.model.XYSeries;
-import flamingsoft.com.sensors.Graph.chart.renderer.XYMultipleSeriesRenderer;
-import flamingsoft.com.sensors.Graph.chart.renderer.XYSeriesRenderer;
+import flamingsoft.com.sensorsgraph.chart.model.XYMultipleSeriesDataset;
+import flamingsoft.com.sensorsgraph.chart.model.XYSeries;
+import flamingsoft.com.sensorsgraph.chart.renderer.XYMultipleSeriesRenderer;
+import flamingsoft.com.sensorsgraph.chart.renderer.XYSeriesRenderer;
 
 /**
  * The range bar chart rendering class.

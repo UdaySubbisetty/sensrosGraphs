@@ -18,11 +18,11 @@ package flamingsoft.com.sensorsgraph.chart;
 import java.util.ArrayList;
 import java.util.List;
 
-import flamingsoft.com.sensors.Graph.chart.model.CategorySeries;
-import flamingsoft.com.sensors.Graph.chart.model.Point;
-import flamingsoft.com.sensors.Graph.chart.model.SeriesSelection;
-import flamingsoft.com.sensors.Graph.chart.renderer.DefaultRenderer;
-import flamingsoft.com.sensors.Graph.chart.renderer.SimpleSeriesRenderer;
+import flamingsoft.com.sensorsgraph.chart.model.CategorySeries;
+import flamingsoft.com.sensorsgraph.chart.model.Point;
+import flamingsoft.com.sensorsgraph.chart.model.SeriesSelection;
+import flamingsoft.com.sensorsgraph.chart.renderer.DefaultRenderer;
+import flamingsoft.com.sensorsgraph.chart.renderer.SimpleSeriesRenderer;
 
 import android.graphics.Canvas;
 import android.graphics.Paint;

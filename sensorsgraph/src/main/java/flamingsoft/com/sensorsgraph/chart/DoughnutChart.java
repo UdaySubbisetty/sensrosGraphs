@@ -10,9 +10,9 @@ import android.graphics.RectF;
 import java.util.ArrayList;
 import java.util.List;
 
-import flamingsoft.com.sensors.Graph.chart.model.MultipleCategorySeries;
-import flamingsoft.com.sensors.Graph.chart.renderer.DefaultRenderer;
-import flamingsoft.com.sensors.Graph.chart.renderer.SimpleSeriesRenderer;
+import flamingsoft.com.sensorsgraph.chart.model.MultipleCategorySeries;
+import flamingsoft.com.sensorsgraph.chart.renderer.DefaultRenderer;
+import flamingsoft.com.sensorsgraph.chart.renderer.SimpleSeriesRenderer;
 
 /**
  * The doughnut chart rendering class.

@@ -7,9 +7,9 @@ import android.graphics.Path;
 
 import java.util.List;
 
-import flamingsoft.com.sensors.Graph.chart.model.Point;
-import flamingsoft.com.sensors.Graph.chart.model.XYMultipleSeriesDataset;
-import flamingsoft.com.sensors.Graph.chart.renderer.XYMultipleSeriesRenderer;
+import flamingsoft.com.sensorsgraph.chart.model.Point;
+import flamingsoft.com.sensorsgraph.chart.model.XYMultipleSeriesDataset;
+import flamingsoft.com.sensorsgraph.chart.renderer.XYMultipleSeriesRenderer;
 
 /**
  * The interpolated (cubic) line chart rendering class.

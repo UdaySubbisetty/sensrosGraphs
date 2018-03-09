@@ -3,10 +3,10 @@ package flamingsoft.com.sensorsgraph.chart;
 
 import java.util.List;
 
-import flamingsoft.com.sensors.Graph.chart.model.XYMultipleSeriesDataset;
-import flamingsoft.com.sensors.Graph.chart.renderer.SimpleSeriesRenderer;
-import flamingsoft.com.sensors.Graph.chart.renderer.XYMultipleSeriesRenderer;
-import flamingsoft.com.sensors.Graph.chart.renderer.XYSeriesRenderer;
+import flamingsoft.com.sensorsgraph.chart.model.XYMultipleSeriesDataset;
+import flamingsoft.com.sensorsgraph.chart.renderer.SimpleSeriesRenderer;
+import flamingsoft.com.sensorsgraph.chart.renderer.XYMultipleSeriesRenderer;
+import flamingsoft.com.sensorsgraph.chart.renderer.XYSeriesRenderer;
 
 import android.graphics.Canvas;
 import android.graphics.Paint;

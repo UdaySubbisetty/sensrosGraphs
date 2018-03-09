@@ -3,9 +3,9 @@ package flamingsoft.com.sensorsgraph.chart;
 
 import android.content.Context;
 
-import flamingsoft.com.sensors.Graph.chart.model.MultipleCategorySeries;
-import flamingsoft.com.sensors.Graph.chart.model.XYMultipleSeriesDataset;
-import flamingsoft.com.sensors.Graph.chart.renderer.XYMultipleSeriesRenderer;
+import flamingsoft.com.sensorsgraph.chart.model.MultipleCategorySeries;
+import flamingsoft.com.sensorsgraph.chart.model.XYMultipleSeriesDataset;
+import flamingsoft.com.sensorsgraph.chart.renderer.XYMultipleSeriesRenderer;
 
 /**
  * Utility methods for creating chart views or intents.

@@ -1,12 +1,12 @@
 
 package flamingsoft.com.sensorsgraph.chart.tools;
 
-import flamingsoft.com.sensors.Graph.chart.AbstractChart;
-import flamingsoft.com.sensors.Graph.chart.RoundChart;
-import flamingsoft.com.sensors.Graph.chart.XYChart;
-import flamingsoft.com.sensors.Graph.chart.model.XYSeries;
-import flamingsoft.com.sensors.Graph.chart.renderer.DefaultRenderer;
-import flamingsoft.com.sensors.Graph.chart.util.MathHelper;
+import flamingsoft.com.sensorsgraph.chart.AbstractChart;
+import flamingsoft.com.sensorsgraph.chart.RoundChart;
+import flamingsoft.com.sensorsgraph.chart.XYChart;
+import flamingsoft.com.sensorsgraph.chart.model.XYSeries;
+import flamingsoft.com.sensorsgraph.chart.renderer.DefaultRenderer;
+import flamingsoft.com.sensorsgraph.chart.util.MathHelper;
 
 public class FitZoom extends AbstractTool {
   /**

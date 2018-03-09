@@ -7,9 +7,9 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.SortedMap;
 
-import flamingsoft.com.sensors.Graph.chart.util.IndexXYMap;
-import flamingsoft.com.sensors.Graph.chart.util.MathHelper;
-import flamingsoft.com.sensors.Graph.chart.util.XYEntry;
+import flamingsoft.com.sensorsgraph.chart.util.IndexXYMap;
+import flamingsoft.com.sensorsgraph.chart.util.MathHelper;
+import flamingsoft.com.sensorsgraph.chart.util.XYEntry;
 
 /**
  * An XY series encapsulates values for XY charts like line, time, area,
