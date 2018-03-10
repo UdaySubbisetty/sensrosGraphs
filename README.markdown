@@ -5,17 +5,31 @@
 GraphView is a library for Android to programmatically create
 flexible and nice-looking diagrams.
 It is **easy** to understand, to integrate and to customize.
-Setup
+
+
+
+
+<img src="https://github.com/sUdayBhaksar/sensrosGraphs/blob/master/sample%202.jpeg" alt="screenshot" title="screenshot" width="270" height="486" />
+<img src="https://github.com/sUdayBhaksar/sensrosGraphs/blob/master/sample%201.jpeg" alt="screenshot" title="screenshot" width="270" height="486" />  
+
+
+
+Gradle:
+
+```groovy
+
 allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
 	}
+```
 
-Next 
-
+```groovy
 
 dependencies {
 	        compile 'com.github.sUdayBhaksar:sensrosGraphs:-SNAPSHOT'
 	}
+
+```
