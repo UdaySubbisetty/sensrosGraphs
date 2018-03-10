@@ -11,7 +11,7 @@
         android:theme="@style/AppTheme">
 
         <activity
-            android:name=".MainActivity"
+            android:name=".SensorGraphActivity"
             android:theme="@style/AppTheme"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:label="Sensors" >
@@ -22,10 +22,7 @@
             </intent-filter>
         </activity>
 
-        <activity
-            android:name=".sensors.SensorGraphActivity"
-            >
-        </activity>
+
 
 
     </application>
