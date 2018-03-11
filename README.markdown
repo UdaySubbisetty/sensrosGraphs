@@ -32,4 +32,21 @@ dependencies {
 	        compile 'com.github.sUdayBhaksar:sensrosGraphs:-SNAPSHOT'
 	}
 
+
 ```
+
+
+
+Import  :
+
+```groovy
+
+import flamingsoft.com.sensorsgraph.chart.ChartFactory;
+import flamingsoft.com.sensorsgraph.chart.GraphicalView;
+import flamingsoft.com.sensorsgraph.chart.model.XYMultipleSeriesDataset;
+import flamingsoft.com.sensorsgraph.chart.model.XYSeries;
+import flamingsoft.com.sensorsgraph.chart.renderer.XYMultipleSeriesRenderer;
+import flamingsoft.com.sensorsgraph.chart.renderer.XYSeriesRenderer;
+
+```
+
