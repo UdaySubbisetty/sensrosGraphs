@@ -29,7 +29,7 @@ allprojects {
 ```groovy
 
 dependencies {
-	        compile 'com.github.sUdayBhaksar:sensrosGraphs:-SNAPSHOT'
+	        compile 'com.github.sUdayBhaksar:sensrosGraphs:1.1'
 	}
 
 
